@@ -1,0 +1,120 @@
+body{
+    margin: 8px;
+    background-color: rgb(255, 255, 255);
+    font-family:'Times New Roman', Times, serif;
+    max-width:800px;
+    justify-self: center;
+}
+
+.table {
+    border: 2px solid rgb(0, 0, 0);
+    padding-left: 20px;
+    padding-right: 20px;
+    height:200px;
+
+   
+ 
+
+}
+.frontdev{
+    text-align: center;
+}
+.conteiner{
+    display:flex;
+    height: 300px;
+
+}
+
+.box1{
+    border-left: solid;
+    border-width: 2px;
+    width: 30%;
+    display: inline;
+  
+   
+    
+   
+}
+.box2{
+
+    border-left: solid;
+    border-right: solid;
+    border-width: 2px;
+    width: 35%;
+   
+   
+   
+   
+}
+.box3{
+    
+    border-right: solid;
+    border-width: 2px;
+    width: 35%;
+    padding: 10px;
+   
+   
+}
+
+.BottomBox{
+    border: 2px solid rgb(0, 0, 0);
+  
+    height: 350px;
+
+}
+.items{
+ 
+    height: 25px;
+    border-bottom: 2px solid;
+    padding:10px ;
+  
+
+}
+.work{
+    height: 45%;
+    border-bottom: 2px solid;
+    padding: 10px;
+
+}
+
+.source{
+    padding: 10px;
+}
+
+.left-align {
+    text-align: left;
+    margin-left: 10px; /* Add some padding if needed */
+}
+
+.reviews{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row; /* Ensure items stack vertically */
+    margin: 0 auto; /* Center the div horizontally */
+    width: 90%; /* Set a width for proper centering */
+    padding: 20px;
+    height: 90px;
+}
+
+.tables{
+    border: 2px solid rgb(0, 0, 0);
+   
+    height:110px;
+    width:200px;
+    border-radius: 30px;
+    display: block;
+    margin:20px;   
+    padding: 10px;
+    padding-top: 30px;
+}
+.name{
+    margin-top: 20px;
+    text-align: center;
+    padding-top:70px;
+    
+}
+.highlight{
+    color:rgb(194, 198, 201);
+    
+}
